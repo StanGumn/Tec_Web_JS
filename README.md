@@ -40,6 +40,7 @@ var mensaje="Hola mundo";
 
 ## Tablas
 El código seria así: 
+
 ```
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
@@ -48,11 +49,31 @@ El código seria así:
 | zebra stripes | are neat      |    $1 |
 ```
 
-Y el resultado sería este 
+Y el resultado sería este.
 
-| Tables        | Are           | Cool  |
-| ------------- | ------------- | ----- |
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |   
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
+
+## Citas (no de humano, sino de texto)
+Para escribir varias líneas de citas solamente las concatenamos en la siguiente linea utilizando el siguiente caracter">".
+
+> Solo se, que nada se. No olvidarse el salto de línea
+
+> Un filosofo Random.
+
+## Salto de Línea
+
+Para utilizar un salto de línea debemos de utilizar más de 3 veces el caracter "-"
+
+---
+
+o el caracter "*"
+
+***
+
+## Videos de YouTube
+Es uso puro de HTML dentro de markdown.
+
 ### Autor: Stalin Guamán (Stan)
