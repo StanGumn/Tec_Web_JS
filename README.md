@@ -37,4 +37,21 @@ var mensaje="Hola mundo";
 <html>
 </html>
 ```
+
+## Tablas
+El código seria así: 
+```
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+```
+
+Y el resultado sería este 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 ### Autor: Stalin Guamán (Stan)
