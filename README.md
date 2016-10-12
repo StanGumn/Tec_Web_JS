@@ -18,7 +18,7 @@ Este repositorio forma parte del curso de [Tecnologías Web](https://github.com/
 Para utilizar un [LINK](https://github.com/StanGumn/Tec_Web_JS) debemos de encerrar el texto en brackets [] seguido del URL en parentesis ()
 
 ## Imágenes
-Para nosotros utlizar imágenes debemos de colocar un texto alternativo después del caracter de exclamación ! y el link de la imágen entre parentesis () ![Logotipo de JavaScript](E:\Documentos\GitHub\Tec_Web_JS\Multimedia\js.png)
+Para nosotros utlizar imágenes debemos de colocar un texto alternativo después del caracter de exclamación ! y el link de la imágen entre parentesis () ![Logotipo de JavaScript](http://www.thereformat.com/images/js4560_450.png)
 
 ## Formateo de Código
 Para nosotros utilizar el formateo de código dentro de texto plano debemos de utilizar el caracter Tilde invertida ` "Tilde Invertida"  ` donde se puede especificar el lenguaje de programación a usarse para el formateo del código, justo después de las 3 `Tildes Invertidas`
@@ -27,5 +27,14 @@ Para nosotros utilizar el formateo de código dentro de texto plano debemos de u
 var mensaje="Hola mundo";
 ```
 
+* Bloque de Consola
+```
+> apt-get update StanTuPapu
+```
 
+* Bloque de HTML
+```
+<html>
+</html>
+```
 ### Autor: Stalin Guamán (Stan)
