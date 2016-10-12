@@ -1,1 +1,31 @@
-# Tec_Web_JS
+# Repositorio de Tecnologías Web con JavaScript 
+Este repositorio forma parte del curso de [Tecnologías Web](https://github.com/StanGumn/Tec_Web_JS)
+## Enfasis de texto
+* Para nosotros utilizar en **negrita** una palabra, la escribimos en el código entre los simbolos " ** "
+* Para nosotros utilizar en *cursiva* una palabra, la escribimos en el código entre los simbolos " ** "
+
+## Listas Ordenadas 
+1. EL número 
+2. de las listas
+        * Lista no ordenada 1 
+        * Lista no ordenada 2 
+3. ordenadas 
+        i. Esta es una lista ordenada 1
+        ii. Esta es una lista ordenada 2
+4. no importan
+
+## Links
+Para utilizar un [LINK](https://github.com/StanGumn/Tec_Web_JS) debemos de encerrar el texto en brackets [] seguido del URL en parentesis ()
+
+## Imágenes
+Para nosotros utlizar imágenes debemos de colocar un texto alternativo después del caracter de exclamación ! y el link de la imágen entre parentesis () ![Logotipo de JavaScript](E:\Documentos\GitHub\Tec_Web_JS\Multimedia\js.png)
+
+## Formateo de Código
+Para nosotros utilizar el formateo de código dentro de texto plano debemos de utilizar el caracter Tilde invertida ` "Tilde Invertida"  ` donde se puede especificar el lenguaje de programación a usarse para el formateo del código, justo después de las 3 `Tildes Invertidas`
+
+```javascript
+var mensaje="Hola mundo";
+```
+
+
+### Autor: Stalin Guamán (Stan)
