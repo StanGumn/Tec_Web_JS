@@ -33,7 +33,6 @@
 * <a href="#ins">Herramienta Inspeccionar</a>
 * <a href="#pst">Postman</a>
 * <a href="#npm">NPM</a>
-* <a href="#npm">NPM</a>
 - <a href="#conrec">Conclusiones y Recomendaciones</a> 
 
 <a name="tema"></a>
@@ -148,5 +147,5 @@ La Web se desarrolló entre marzo de 1989 y diciembre de 1990.2 3 por el inglés
 
 # ¡Gracias por su atención!
 
-Author: [Stalin Guamán <<STAN>>](https://github.com/StanGumn)
+Author: [Stalin Guamán <STAN>](https://github.com/StanGumn)
 
