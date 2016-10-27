@@ -15,16 +15,16 @@
 <a name="cabecera"></a>
 ## Índice de contenidos
 
-- <a href="#tema">Tema</a>
-- <a href="#objetivos">Objetivos</a>
-- <a href="#marco-teorico">Marco Teorico</a>
+1. <a href="#tema">Tema</a>
+2. <a href="#objetivos">Objetivos</a>
+3. <a href="#marco-teorico">Marco Teorico</a>
 * <a href="#hist">Historia y Facts</a>
 * <a href="#defhtml">Definicion HTML</a>
 * <a href="#httm">HTTP Methods</a>
 * <a href="#w3c">W3C</a>
 * <a href="#www">WWC</a>
 * <a href="#xml">XML</a>
-- <a href="#desarrollo">Desarrollo de la Práctica</a>
+4. <a href="#desarrollo">Desarrollo de la Práctica</a>
 * <a href="#chttp">Códigos HTTP</a>
 * <a href="#w3cs">W3C School</a>
 * <a href="#doct">Doctype</a>
@@ -33,21 +33,21 @@
 * <a href="#ins">Herramienta Inspeccionar</a>
 * <a href="#pst">Postman</a>
 * <a href="#npm">NPM</a>
-- <a href="#conrec">Conclusiones y Recomendaciones</a> 
+5. <a href="#conrec">Conclusiones y Recomendaciones</a> 
 
 <a name="tema"></a>
-## Tema
+## 1. Tema
 El tema de la práctica es: `Introduccion a la Web y HTML`
 
 <a name="objetivos"></a>
-## Objetivos
+## 2. Objetivos
 
 - Desarrollar el conocimiento Web
 - Conocer herramientas de desarrolladores web como: postman, inspetor web
 - Aprender el uso de lenguaje HTML CSS
 
 <a name="marco-teorico"></a>
-## Marco Teorico
+## 3. Marco Teorico
 <a name="defhtml"></a>
 ### Definición HTML
 
@@ -88,7 +88,7 @@ La Web se desarrolló entre marzo de 1989 y diciembre de 1990.2 3 por el inglés
 <a href="#cabecera">A la cabecera</a>
 
 <a name="desarrollo"></a>
-## Desarrollo del informe
+## 4. Desarrollo del informe
 
 <a href="#cabecera">A la cabecera</a>
 
@@ -133,7 +133,7 @@ La Web se desarrolló entre marzo de 1989 y diciembre de 1990.2 3 por el inglés
 
 <a href="#cabecera">A la cabecera</a>
 
-## Conclusiones y Recomendaciones
+## 5. Conclusiones y Recomendaciones
 
 - Se recomienda mejorar la presentacion
 - Se recomienda usar el ir a cabecera despues de terminar una seccion
