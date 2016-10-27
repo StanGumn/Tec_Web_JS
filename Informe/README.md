@@ -18,21 +18,21 @@
 1. <a href="#tema">Tema</a>
 2. <a href="#objetivos">Objetivos</a>
 3. <a href="#marco-teorico">Marco Teorico</a>
-* <a href="#hist">Historia y Facts</a>
-* <a href="#defhtml">Definicion HTML</a>
-* <a href="#httm">HTTP Methods</a>
-* <a href="#w3c">W3C</a>
-* <a href="#www">WWC</a>
-* <a href="#xml">XML</a>
+3.1 <a href="#hist">Historia y Facts</a>
+3.2 <a href="#defhtml">Definicion HTML</a>
+3.3 <a href="#httm">HTTP Methods</a>
+3.4 <a href="#w3c">W3C</a>
+3.5 <a href="#www">WWC</a>
+3.6 <a href="#xml">XML</a>
 4. <a href="#desarrollo">Desarrollo de la Práctica</a>
-* <a href="#chttp">Códigos HTTP</a>
-* <a href="#w3cs">W3C School</a>
-* <a href="#doct">Doctype</a>
-* <a href="#html">HTML</a>
-* <a href="#css">Estilos CSS</a>
-* <a href="#ins">Herramienta Inspeccionar</a>
-* <a href="#pst">Postman</a>
-* <a href="#npm">NPM</a>
+4.1 <a href="#chttp">Códigos HTTP</a>
+4.2 <a href="#w3cs">W3C School</a>
+4.3 <a href="#doct">Doctype</a>
+4.4 <a href="#html">HTML</a>
+4.5 <a href="#css">Estilos CSS</a>
+4.6 <a href="#ins">Herramienta Inspeccionar</a>
+4.7 <a href="#pst">Postman</a>
+4.8 <a href="#npm">NPM</a>
 5. <a href="#conrec">Conclusiones y Recomendaciones</a> 
 
 <a name="tema"></a>
@@ -45,6 +45,8 @@ El tema de la práctica es: `Introduccion a la Web y HTML`
 - Desarrollar el conocimiento Web
 - Conocer herramientas de desarrolladores web como: postman, inspetor web
 - Aprender el uso de lenguaje HTML CSS
+
+<a href="#cabecera">A la cabecera</a>
 
 <a name="marco-teorico"></a>
 ## 3. Marco Teorico
