@@ -3,7 +3,7 @@
 ### Materia : `Tecnologías Web con JavaScript`
 
 <p align="center">
-<img src="http://www.javatpoint.com/images/javascript/javascript_logo.png" width="300" height="200">
+<img src="https://github.com/StanGumn/Tec_Web_JS/blob/01-HTML/Multimedia/js.png" width="300" height="200">
 </p>
 
 ### Tema : `Introducción a la Web - HTML` 
@@ -20,7 +20,20 @@
 - <a href="#marco-teorico">Marco Teorico</a>
 * <a href="#hist">Historia y Facts</a>
 * <a href="#defhtml">Definicion HTML</a>
+* <a href="#httm">HTTP Methods</a>
+* <a href="#w3c">W3C</a>
+* <a href="#www">WWC</a>
+* <a href="#xml">XML</a>
 - <a href="#desarrollo">Desarrollo de la Práctica</a>
+* <a href="#chttp">Códigos HTTP</a>
+* <a href="#w3cs">W3C School</a>
+* <a href="#doct">Doctype</a>
+* <a href="#html">HTML</a>
+* <a href="#css">Estilos CSS</a>
+* <a href="#ins">Herramienta Inspeccionar</a>
+* <a href="#pst">Postman</a>
+* <a href="#npm">NPM</a>
+* <a href="#npm">NPM</a>
 - <a href="#conrec">Conclusiones y Recomendaciones</a> 
 
 <a name="tema"></a>
@@ -55,58 +68,70 @@ La Web se desarrolló entre marzo de 1989 y diciembre de 1990.2 3 por el inglés
 <br>
 <a href="#cabecera">A la cabecera</a>
 
+<a name="httm"></a>
+### HTTP Methods
+
+<a href="#cabecera">A la cabecera</a>
+
+<a name="w3c"></a>
+### W3C
+
+<a href="#cabecera">A la cabecera</a>
+
+<a name="www"></a>
+### WWW
+
+<a href="#cabecera">A la cabecera</a>
+
+<a name="xml"></a>
+### XML
+
+<a href="#cabecera">A la cabecera</a>
 
 <a name="desarrollo"></a>
 ## Desarrollo del informe
 
-### HTTP Methods
+<a href="#cabecera">A la cabecera</a>
+
+<a name="chttp"></a>
 ### Códigos HTTP 
-### Navegador
-### WWW
+
+<a href="#cabecera">A la cabecera</a>
+
+<a name="w3cs"></a>
 ### W3C Schools
+
+<a href="#cabecera">A la cabecera</a>
+
+<a name="doct"></a>
 ### Doctype
+
+<a href="#cabecera">A la cabecera</a>
+
+<a name="html"></a>
 ### HTML
+
+<a href="#cabecera">A la cabecera</a>
+
+<a name="css"></a>
 ### Estilos CSS
+
+<a href="#cabecera">A la cabecera</a>
+
+<a name="ins"></a>
 ### Herramienta Inspeccionar
+
+<a href="#cabecera">A la cabecera</a>
+
+<a name="pst"></a>
 ### Postman 
+
+
+<a href="#cabecera">A la cabecera</a>
+
+<a name="npm"></a>
 ### NPM (Node Package Manager)
-### XML
-### Tags 
 
-
-### Imagenes desde Github **IMPORTANTE**
-
-Se pueden usar imágenes desde nuestros archivos en github que constan de la siguiente URL:
-
-
-
-```
-<p align="center">
-
-<img src="https://github.com/adrianeguez/Tec_Web_Js_2016_B/blob/master/Ejemplo%20de%20un%20Informe/Imagenes/Flujograma.png?raw=true" width="500" height="800">
-
-</p>
-```
-
-### Links dentro de github
-
-Para nosotros utilizar los Links dentro de Github debemos de hacer dos cosas:
-
-1. Definir un anchor name donde nosotros queramos mover cuando demos clic de la siguiente manera y formate (**NOTESE QUE ESTAN JUNTAS**):
-
-```
-<a name="nombre"></a>
-## titulo2
-```
-2. Después de esto debemos de linkear mediante un texto por ejemplo en una lista de la siguiente manera (**NO ELVIDAR EL `#`**):
-
-```
-- <a href="#nombre">Dale clic aqui para ir al titulo 2</a>
-```
-<a name="conrec"></a>
-
-<<<<<<< HEAD
-<br>
 <a href="#cabecera">A la cabecera</a>
 
 ## Conclusiones y Recomendaciones
@@ -123,6 +148,5 @@ Para nosotros utilizar los Links dentro de Github debemos de hacer dos cosas:
 
 # ¡Gracias por su atención!
 
-Author: [Stalin Guamán](https://github.com/StanGumn)
-=======
->>>>>>> origin/01-HTML
+Author: [Stalin Guamán <<STAN>>](https://github.com/StanGumn)
+
