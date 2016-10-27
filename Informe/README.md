@@ -1,65 +1,134 @@
-# Repositorio de Tecnologías Web con JavaScript 
-Este repositorio forma parte del curso de [Tecnologías Web](https://github.com/StanGumn/Tec_Web_JS)
-## Enfasis de texto
-* Para nosotros utilizar en **negrita** una palabra, la escribimos en el código entre los simbolos " ** "
-* Para nosotros utilizar en *cursiva* una palabra, la escribimos en el código entre los simbolos " ** "
 
-## Listas Ordenadas 
-1. EL número 
-2. de las listas
-        * Lista no ordenada 1 
-        * Lista no ordenada 2 
-3. ordenadas 
-        i. Esta es una lista ordenada 1
-        ii. Esta es una lista ordenada 2
-4. no importan
+# CSS - Clases y Frameworks css
 
-## Links
-Para utilizar un [LINK](https://github.com/StanGumn/Tec_Web_JS) debemos de encerrar el texto en brackets [] seguido del URL en parentesis ()
+### Materia : `Tecnologías Web con JavaScript`
 
-## Imágenes
-Para nosotros utlizar imágenes debemos de colocar un texto alternativo después del caracter de exclamación ! y el link de la imágen entre parentesis () ![Logotipo de JavaScript](http://www.thereformat.com/images/js4560_450.png)
+<p align="center">
+<img src="http://www.javatpoint.com/images/javascript/javascript_logo.png" width="300" height="200">
+</p>
 
-## Formateo de Código
-Para nosotros utilizar el formateo de código dentro de texto plano debemos de utilizar el caracter Tilde invertida ` "Tilde Invertida"  ` donde se puede especificar el lenguaje de programación a usarse para el formateo del código, justo después de las 3 `Tildes Invertidas`
+### Tema : `Introducción a la Web` 
+### Fecha : `2016-10-21`
+### Estudiante : `Stalin Segundo Guamán Quishpe`
+### Profesor : `Tania Calle - Adrian Eguez`
+### Número de informe : `2`
 
-```javascript
-var mensaje="Hola mundo";
+<a name="cabecera"></a>
+## Índice de contenidos
+
+
+- <a href="#tema">Tema</a>
+- <a href="#objetivos">Objetivos</a>
+- <a href="#marco-teorico">Marco Teorico</a>
+* <a href="#hist">Historia y Facts</a>
+* <a href="#defhtml">Definicion HTML</a>
+- <a href="#desarrollo">Desarrollo de la Práctica</a>
+- <a href="#conrec">Conclusiones y Recomendaciones</a> 
+
+<a name="tema"></a>
+## Tema
+El tema de la práctica es: `Introduccion a la Web`
+
+<a name="objetivos"></a>
+## Objetivos
+
+- Desarrollar el conocimiento Web
+- Conocer herramientas de desarrolladores web como: postman, inspetor web
+- Aprender el uso de lenguaje HTML CSS
+
+<a name="marco-teorico"></a>
+## Marco Teorico
+<a name="defhtml"></a>
+### Definición HTML
+
+En informática, la World Wide Web (WWW) o red informática mundial1 es un sistema de distribución de documentos de hipertexto o hipermedios interconectados y accesibles vía Internet. Con un navegador web, un usuario visualiza sitios web compuestos de páginas web que pueden contener texto, imágenes, vídeos u otros contenidos multimedia, y navega a través de esas páginas usando hiperenlaces. (Fuente: [Wikipedia](https://es.wikipedia.org/wiki/World_Wide_Web))
+<br>
+<a href="#cabecera">A la cabecera</a>
+
+<br><br>
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/WWW_logo_by_Robert_Cailliau.svg/240px-WWW_logo_by_Robert_Cailliau.svg.png" width="300" height="200">
+</p>
+<br><br>
+<a name="hist"></a>
+### Historia y Facts
+
+La Web se desarrolló entre marzo de 1989 y diciembre de 1990.2 3 por el inglés Tim Berners-Lee con la ayuda del belga Robert Cailliau mientras trabajaban en el CERN en Ginebra, Suiza, y publicado en 1992. Desde entonces, Berners-Lee ha jugado un papel activo guiando el desarrollo de estándares Web (como los lenguajes de marcado con los que se crean las páginas web), y en los últimos años ha abogado por su visión de una Web semántica. Utilizando los conceptos de sus anteriores sistemas de hipertexto como ENQUIRE, el físico británico Tim Berners-Lee, un científico de la computación y en ese tiempo de los empleados del CERN, ahora director del World Wide Web Consortium (W3C), escribió una propuesta en marzo de 1989 con lo que se convertiría en la World Wide Web.4 la propuesta de 1989 fue destinada a un sistema de comunicación CERN pero Berners-Lee finalmente se dio cuenta que el concepto podría aplicarse en todo el mundo.5 En la CERN, la organización europea de investigación cerca de Ginebra, en la frontera entre Francia y Suiza,6 Berners-Lee y el científico de la computación belga Robert Cailliau propusieron en 1990 utilizar el hipertexto "para vincular y acceder a información de diversos tipos como una red de nodos en los que el usuario puede navegar a voluntad",7 y Berners-Lee terminó el primer sitio web en diciembre de ese año.8 Berners-Lee publicó el proyecto en el grupo de noticias alt.hypertext el 7 de agosto de 1991. (Fuente: <a href="https://es.wikipedia.org/wiki/World_Wide_Web">Wikipedia</a>)
+<br>
+<a href="#cabecera">A la cabecera</a>
+
+
+<a name="desarrollo"></a>
+## Desarrollo del informe
+
+### Imagenes desde Github **IMPORTANTE**
+
+Se pueden usar imágenes desde nuestros archivos en github que constan de la siguiente URL:
+
+- Github
+* La url de github que es `https://github.com` 
+- Usuario
+* La url de usuario de github que en este caso es: `/adrianeguez` 
+- Repositorio
+* El repositorio de Github que estamos usando, en este caso es `/Tec_Web_Js_2016_B`
+- Rama o  Branch
+* La rama de nuestro repositorio en este formato: `/blob/master`
+- El PATH
+* La direccíon de nuesto archivo por ejemplo `/carpeta/subcarpeta/subsubcarpeta/archivo.png` en este ejemplo es `/Ejemplo%20de%20un%20Informe/Imagenes/Flujograma.png` 
+- RAW
+* Por ultimo mandamos un Query String Parameter de la con la variable `raw` y valor `true` de la siguiente manera: `?raw=true`
+
+**Al final** nuestro url queda de la siguiente manera:
+
+#### `https://github.com/adrianeguez/Tec_Web_Js_2016_B/blob/master/Ejemplo%20de%20un%20Informe/Imagenes/Flujograma.png?raw=true`
+
+<p align="center">
+<img src="https://github.com/adrianeguez/Tec_Web_Js_2016_B/blob/master/Ejemplo%20de%20un%20Informe/Imagenes/Flujograma.png?raw=true" width="500" height="800">
+</p>
+
+Por ultimo podemos centrar las imagenes de la siguiente manera:
+
+
+```
+<p align="center">
+
+<img src="https://github.com/adrianeguez/Tec_Web_Js_2016_B/blob/master/Ejemplo%20de%20un%20Informe/Imagenes/Flujograma.png?raw=true" width="500" height="800">
+
+</p>
 ```
 
-* Bloque de Consola
-```
-> apt-get update StanTuPapu
-```
+### Links dentro de github
 
-* Bloque de HTML
-```
-<html>
-</html>
-```
+Para nosotros utilizar los Links dentro de Github debemos de hacer dos cosas:
 
-## Tablas
-El código seria así: 
+1. Definir un anchor name donde nosotros queramos mover cuando demos clic de la siguiente manera y formate (**NOTESE QUE ESTAN JUNTAS**):
 
 ```
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+<a name="nombre"></a>
+## titulo2
 ```
+2. Después de esto debemos de linkear mediante un texto por ejemplo en una lista de la siguiente manera (**NO ELVIDAR EL `#`**):
 
-Y el resultado sería este.
+```
+- <a href="#nombre">Dale clic aqui para ir al titulo 2</a>
+```
+<a name="conrec"></a>
 
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
+<br>
+<a href="#cabecera">A la cabecera</a>
 
-## Citas (no de humano, sino de texto)
-Para escribir varias líneas de citas solamente las concatenamos en la siguiente linea utilizando el siguiente caracter">".
+## Conclusiones y Recomendaciones
 
-> Solo se, que nada se. No olvidarse el salto de línea
+- Se recomienda mejorar la presentacion
+- Se recomienda usar el ir a cabecera despues de terminar una seccion
+- Se aprendio el uso de HTML con Markdown
+- Conocimos herramientas de desarrollo web como postman e inspector web
+- Desarrollamos conocimientos de introducción Web
 
-> Un filosofo Random.
+<br>
+<a href="#cabecera">A la cabecera</a>
 
+
+# ¡Gracias por su atención!
+
+Author: [Adrian Eguez](https://github.com/adrianeguez)
