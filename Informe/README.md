@@ -21,6 +21,10 @@
   * <a href="#hist">Historia y Facts</a>
   * <a href="#defhtml">Definicion HTML</a>
   * <a href="#httm">HTTP Methods</a>
+   * <a href="#get">GET</a>
+   * <a href="#post">POST</a>
+   * <a href="#put">PUT</a>
+   * <a href="#delete">DELETE</a>
   * <a href="#www">WWC</a>
   * <a href="#xml">XML</a>
 4. <a href="#desarrollo">Desarrollo de la Práctica</a>
