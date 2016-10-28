@@ -3,7 +3,7 @@
 ### Materia : `Tecnologías Web con JavaScript`
 
 <p align="center">
-<img src="https://github.com/StanGumn/Tec_Web_JS/blob/01-HTML/Multimedia/js.png" width="350" height="350">
+<img src="https://github.com/StanGumn/Tec_Web_JS/blob/01-HTML/Multimedia/js.png?raw=true" width="300" height="300">
 </p>
 
 ### Tema : `Introducción a la Web - HTML` 
@@ -58,7 +58,7 @@ En informática, la World Wide Web (WWW) o red informática mundial1 es un siste
 
 <br><br>
 <p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/WWW_logo_by_Robert_Cailliau.svg/240px-WWW_logo_by_Robert_Cailliau.svg.png" width="300" height="200">
+<img src="https://github.com/StanGumn/Tec_Web_JS/blob/master/Multimedia/html.png?raw=true" width="300" height="300">
 </p>
 <br><br>
 <a name="hist"></a>
@@ -76,7 +76,7 @@ Además de GET y POST, están también PUT, DELETE, HEAD y OPTIONS, los cuales p
 
 <br>
 <p align="center">
-<img src="https://github.com/StanGumn/Tec_Web_JS/blob/master/Multimedia/metodos%20http.jpg" width="638" height="479">
+<img src="https://github.com/StanGumn/Tec_Web_JS/blob/master/Multimedia/metodos%20http.jpg?raw=true" width="638" height="479">
 </p>
 
 <a href="#cabecera">A la cabecera</a>
@@ -86,12 +86,22 @@ Además de GET y POST, están también PUT, DELETE, HEAD y OPTIONS, los cuales p
 En informática, la World Wide Web (WWW) o red informática mundial1 es un sistema de distribución de documentos de hipertexto o hipermedios interconectados y accesibles vía Internet. Con un navegador web, un usuario visualiza sitios web compuestos de páginas web que pueden contener texto, imágenes, vídeos u otros contenidos multimedia, y navega a través de esas páginas usando hiperenlaces.
 (Fuente: <a href="https://es.wikipedia.org/wiki/World_Wide_Web">Wikipedia</a>)
 
+<br>
+<p align="center">
+<img src="https://github.com/StanGumn/Tec_Web_JS/blob/master/Multimedia/www%20logo.png?raw=true" width="200" height="200">
+</p>
+
 <a href="#cabecera">A la cabecera</a>
 
 <a name="xml"></a>
 ### XML
 XML, siglas en inglés de eXtensible Markup Language ("lenguaje de marcas Extensible"), es un meta-lenguaje que permite definir lenguajes de marcas desarrollado por el World Wide Web Consortium (W3C) utilizado para almacenar datos en forma legible. Proviene del lenguaje SGML y permite definir la gramática de lenguajes específicos (de la misma manera que HTML es a su vez un lenguaje definido por SGML) para estructurar documentos grandes. A diferencia de otros lenguajes, XML da soporte a bases de datos, siendo útil cuando varias aplicaciones deben comunicarse entre sí o integrar información.
 (Fuente: <a href="https://es.wikipedia.org/wiki/Extensible_Markup_Language">Wikipedia</a>)
+
+<br>
+<p align="center">
+<img src="https://github.com/StanGumn/Tec_Web_JS/blob/master/Multimedia/xml%20logo.png?raw=true" width="200" height="200">
+</p>
 
 <a href="#cabecera">A la cabecera</a>
 
