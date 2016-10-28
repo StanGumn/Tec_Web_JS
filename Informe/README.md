@@ -3,7 +3,7 @@
 ### Materia : `Tecnologías Web con JavaScript`
 
 <p align="center">
-<img src="https://github.com/StanGumn/Tec_Web_JS/blob/01-HTML/Multimedia/js.png?raw=true" width="300" height="300">
+<img src="https://github.com/StanGumn/Tec_Web_JS/blob/01-HTML/Multimedia/js.png?raw=true" width="300" height="300" alt="Logo de JS">
 </p>
 
 ### Tema : `Introducción a la Web - HTML` 
@@ -58,7 +58,7 @@ En informática, la World Wide Web (WWW) o red informática mundial1 es un siste
 
 <br><br>
 <p align="center">
-<img src="https://github.com/StanGumn/Tec_Web_JS/blob/master/Multimedia/html.png?raw=true" width="300" height="300">
+<img src="https://github.com/StanGumn/Tec_Web_JS/blob/master/Multimedia/html.png?raw=true" width="300" height="300" alt="Logo HTML">
 </p>
 <br><br>
 <a name="hist"></a>
@@ -76,9 +76,8 @@ Además de GET y POST, están también PUT, DELETE, HEAD y OPTIONS, los cuales p
 
 <br>
 <p align="center">
-<img src="https://github.com/StanGumn/Tec_Web_JS/blob/master/Multimedia/metodos%20http.jpg?raw=true" width="638" height="479">
+<img src="https://github.com/StanGumn/Tec_Web_JS/blob/master/Multimedia/metodos%20http.jpg?raw=true" width="638" height="479" alt="Metodos HTTP y funcion de cada uno">
 </p>
-
 <a href="#cabecera">A la cabecera</a>
 
 <a name="www"></a>
@@ -88,9 +87,8 @@ En informática, la World Wide Web (WWW) o red informática mundial1 es un siste
 
 <br>
 <p align="center">
-<img src="https://github.com/StanGumn/Tec_Web_JS/blob/master/Multimedia/www%20logo.png?raw=true" width="200" height="200">
+<img src="https://github.com/StanGumn/Tec_Web_JS/blob/master/Multimedia/www%20logo.png?raw=true" width="200" height="200" alt="Logo WWW">
 </p>
-
 <a href="#cabecera">A la cabecera</a>
 
 <a name="xml"></a>
@@ -100,15 +98,12 @@ XML, siglas en inglés de eXtensible Markup Language ("lenguaje de marcas Extens
 
 <br>
 <p align="center">
-<img src="https://github.com/StanGumn/Tec_Web_JS/blob/master/Multimedia/xml%20logo.png?raw=true" width="200" height="200">
+<img src="https://github.com/StanGumn/Tec_Web_JS/blob/master/Multimedia/xml%20logo.png?raw=true" width="200" height="200" alt="logo XML">
 </p>
-
 <a href="#cabecera">A la cabecera</a>
 
 <a name="desarrollo"></a>
 ## 4. Desarrollo del informe
-
-<a href="#cabecera">A la cabecera</a>
 
 <a name="chttp"></a>
 ### Códigos HTTP 
@@ -117,6 +112,12 @@ XML, siglas en inglés de eXtensible Markup Language ("lenguaje de marcas Extens
 
 <a name="w3cs"></a>
 ### W3C Schools
+
+
+<br>
+<p align="center">
+<img src="https://github.com/StanGumn/Tec_Web_JS/blob/master/Multimedia/Informe%201/w3c%20school.JPG?raw=true" width="830" height="444" alt="Pagna web de W3C schools">
+</p>
 
 <a href="#cabecera">A la cabecera</a>
 
@@ -133,17 +134,33 @@ XML, siglas en inglés de eXtensible Markup Language ("lenguaje de marcas Extens
 <a name="css"></a>
 ### Estilos CSS
 
+<br>
+<p align="center">
+<img src="https://github.com/StanGumn/Tec_Web_JS/blob/master/Multimedia/Informe%201/css%20embebido.JPG?raw=true" width="346" height="25" alt="Estilo CSS Embebido">
+</p>
+
+<br>
+<p align="center">
+<img src="https://github.com/StanGumn/Tec_Web_JS/blob/master/Multimedia/Informe%201/css%20embebido%202.JPG?raw=true" width="290" height="25" alt="Estilo CSS Embebido">
+</p>
 <a href="#cabecera">A la cabecera</a>
 
 <a name="ins"></a>
 ### Herramienta Inspeccionar
 
+<br>
+<p align="center">
+<img src="https://github.com/StanGumn/Tec_Web_JS/blob/master/Multimedia/Informe%201/inspeccionar%201.JPG?raw=true" width="1369" height="660">
+</p>
 <a href="#cabecera">A la cabecera</a>
 
 <a name="pst"></a>
 ### Postman 
 
-
+<br>
+<p align="center">
+<img src="https://github.com/StanGumn/Tec_Web_JS/blob/master/Multimedia/Informe%201/postman%20con%20get.JPG?raw=true" width="1046" height="634">
+</p>
 <a href="#cabecera">A la cabecera</a>
 
 <a name="npm"></a>
