@@ -24,13 +24,13 @@
   * <a href="#www">WWC</a>
   * <a href="#xml">XML</a>
   * <a href="#doct">Doctype</a>
+  * <a href="#npm">NPM</a>
 4. <a href="#desarrollo">Desarrollo de la Práctica</a>
   * <a href="#w3cs">W3C School</a>
   * <a href="#html">HTML</a>
   * <a href="#css">Estilos CSS</a>
   * <a href="#ins">Herramienta Inspeccionar</a>
   * <a href="#pst">Postman</a>
-  * <a href="#npm">NPM</a>
 5. <a href="#conrec">Conclusiones y Recomendaciones</a> 
 
 <a name="tema"></a>
@@ -102,7 +102,7 @@ XML, siglas en inglés de eXtensible Markup Language ("lenguaje de marcas Extens
 Un Ejemplo de código XML lo podemos observar en la siguiente imágen la cual se realizó en clase.
 <br>
 <p align="center">
-<img src="https://github.com/StanGumn/Tec_Web_JS/blob/master/Multimedia/Informe%201/xml%20codigo.JPG?raw=true" width="242" height="318" alt="Codigo de ejemplo XML">
+<img src="https://github.com/StanGumn/Tec_Web_JS/blob/master/Multimedia/Informe%201/xml%20codigo.JPG?raw=true" width="242" height="350" alt="Codigo de ejemplo XML">
 </p>
 <a href="#cabecera">A la cabecera</a>
 
@@ -113,6 +113,16 @@ El estándar XHTML deriva de XML, por lo que comparte con el muchas de sus norma
 <a href="#cabecera">A la cabecera</a>
 
 <a name="desarrollo"></a>
+
+<a name="npm"></a>
+### NPM (Node Package Manager)
+Node.js® es una entorno de ejecución para JavaScript construido con el motor de JavaScript V8 de Chrome. Node.js usa un modelo de operaciones E/S sin bloqueo y orientado a eventos, que lo hace liviano y eficiente. El ecosistema de paquetes de Node.js, npm, es el ecosistema mas grande de librerías de código abierto en el mundo. (Fuente: <a href="https://nodejs.org/es/">Node JS</a>)
+<br>
+<p align="center">
+<img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.png"  alt="Logo de Node">
+</p>
+<a href="#cabecera">A la cabecera</a>
+
 ## 4. Desarrollo del informe
 
 <a name="w3cs"></a>
@@ -215,14 +225,11 @@ Postman es un plugin de Google Chrome el cual nos permite interactuar con los m�
 </p>
 <a href="#cabecera">A la cabecera</a>
 
-<a name="npm"></a>
-### NPM (Node Package Manager)
-
-<a href="#cabecera">A la cabecera</a>
-
 ## 5. Conclusiones y Recomendaciones
 
-- 
+- HTML brinda el esqueleto de una página web mientras que CSS brinda la fachada de la misma.
+- Se puede experimentar cuantas veces sea necesario con la herramienta Postman, sin embargo se debe tener en cuenta que si no se tiene las credenciales necesarias, no se puede experimentar con los métodos PUT o DELETE, puesto que no se tiene control de la información del servicio que se este utilizando.
+
 
 <br>
 <a href="#cabecera">A la cabecera</a>
