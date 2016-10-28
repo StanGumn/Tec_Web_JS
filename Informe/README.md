@@ -21,7 +21,6 @@
   * <a href="#hist">Historia y Facts</a>
   * <a href="#defhtml">Definicion HTML</a>
   * <a href="#httm">HTTP Methods</a>
-  * <a href="#w3c">W3C</a>
   * <a href="#www">WWC</a>
   * <a href="#xml">XML</a>
 4. <a href="#desarrollo">Desarrollo de la Práctica</a>
@@ -71,21 +70,52 @@ La Web se desarrolló entre marzo de 1989 y diciembre de 1990.2 3 por el inglés
 
 <a name="httm"></a>
 ### HTTP Methods
+El navegador emplea normalmente los métodos HTTP más usados por los desarrolladores, GET y POST. Para los que no saben, el método GET lo usamos cuando escribimos en la barra de direcciones del navegador un enlace válido, al presionar enter, el navegador envía una petición al servidor por medio del método GET. Por otro lado, cuando nos damos de alta en un sitio web o hacemos un pago a través de Internet, el navegador usará el método POST.
+Además de GET y POST, están también PUT, DELETE, HEAD y OPTIONS, los cuales plantearé uno a uno enseguida.
+(Fuente: <a href="https://otroespacioblog.wordpress.com/2013/05/22/conoce-un-poco-sobre-los-metodos-http-en-rest/">Métodos HTTP</a>)
 
 <a href="#cabecera">A la cabecera</a>
 
-<a name="w3c"></a>
-### W3C
+#### GET
+Se usa para obtener información del servidor, puede ser algún archivo HTML, una imagen, un archivo de texto, un XML, etc. Este método solo debe usarse para obtener información del servidor de acuerdo a los estándares de HTTP. El método GET no debe cambiar el estado del servidor, es decir, no debe hacer ninguna modificación a cualquier archivo que en éste se encuentre. En términos de CRUD, GET sería el Read (Leer).
+(Fuente: <a href="https://otroespacioblog.wordpress.com/2013/05/22/conoce-un-poco-sobre-los-metodos-http-en-rest/">Métodos HTTP</a>)
 
 <a href="#cabecera">A la cabecera</a>
+
+#### POST
+Se podría decir que es el método HTTP más empleado, eso en parte a que permite hacer variedad de operaciones del CRUD, aunque por estándar, es el encargado de crear un nuevo recurso y, por consiguiente, modificar el estado del servidor. En términos de CRUD, el método POST se confunde en ocasiones con el método PUT, aunque la diferencia radica en una cualidad que se llama idempotencia.
+¿En qué consiste la idempotencia? Sencillo, se trata de la capacidad que tenga un ente (este caso el método) de realizar una misma operación varias veces, y obtener el mismo resultado que si solo se hiciese una vez.
+Teniendo en cuenta que es la idempotencia, se dice que el método POST no es idempotente, en cambio sí lo es el método PUT. Dice el artículo original, que POST cada vez que hace una operación cambia el estado del servidor, por ejemplo, si en un formulario de comentarios de un blog, presionamos dos veces el botón “Comentar”, habrás creado dos veces el mismo comentario en el servidor y para cada nuevo petición POST, se creará un nuevo comentario en el servidor. Por esto es que se liga al método POST con la acción del CRUD, CREATE (Crear, Registrar).
+(Fuente: <a href="https://otroespacioblog.wordpress.com/2013/05/22/conoce-un-poco-sobre-los-metodos-http-en-rest/">Métodos HTTP</a>)
+
+<a href="#cabecera">A la cabecera</a>
+
+#### PUT
+No es tan usado como lo son GET y POST. Su uso podría darse en el caso de que, por ejemplo, quisieras hacer una operación que haga una acción sobre el estado del servidor, pero que la siguiente vez que suceda, no cambie ese estado. El ejemplo que da el autor del artículo que traduzco se basa en la operación de actualización.
+Queremos actualizar un archivo que ha sido subido al servidor, dicha subida ocasionó un cambio en el estado del servidor. Cuando vuelvas a subir el mismo archivo al servidor, el archivo viejo será reemplazado por el que acabas de cargar.
+Teniendo esto en cuenta, podemos relacionar el método PUT con la acción del CRUD, UPDATE (actualizar).
+(Fuente: <a href="https://otroespacioblog.wordpress.com/2013/05/22/conoce-un-poco-sobre-los-metodos-http-en-rest/">Métodos HTTP</a>)
+
+<a href="#cabecera">A la cabecera</a>
+
+#### DELETE
+No tiene mucho que explicar. Teniendo en cuenta los estándares de HTTP, el método DELETE es el único que debe ser usado para borrar un recurso del servidor, sin embargo, algunos desarrolladores emplean los métodos GET o POST para esa labor. En cuanto a CRUD, DELETE sería la acción, que lleva su mismo nombre, DELETE (borrar).
+(Fuente: <a href="https://otroespacioblog.wordpress.com/2013/05/22/conoce-un-poco-sobre-los-metodos-http-en-rest/">Métodos HTTP</a>)
+
+<a href="#cabecera">A la cabecera</a>
+
 
 <a name="www"></a>
 ### WWW
+En informática, la World Wide Web (WWW) o red informática mundial1 es un sistema de distribución de documentos de hipertexto o hipermedios interconectados y accesibles vía Internet. Con un navegador web, un usuario visualiza sitios web compuestos de páginas web que pueden contener texto, imágenes, vídeos u otros contenidos multimedia, y navega a través de esas páginas usando hiperenlaces.
+(Fuente: <a href="https://es.wikipedia.org/wiki/World_Wide_Web">Wikipedia</a>)
 
 <a href="#cabecera">A la cabecera</a>
 
 <a name="xml"></a>
 ### XML
+XML, siglas en inglés de eXtensible Markup Language ("lenguaje de marcas Extensible"), es un meta-lenguaje que permite definir lenguajes de marcas desarrollado por el World Wide Web Consortium (W3C) utilizado para almacenar datos en forma legible. Proviene del lenguaje SGML y permite definir la gramática de lenguajes específicos (de la misma manera que HTML es a su vez un lenguaje definido por SGML) para estructurar documentos grandes. A diferencia de otros lenguajes, XML da soporte a bases de datos, siendo útil cuando varias aplicaciones deben comunicarse entre sí o integrar información.
+(Fuente: <a href="https://es.wikipedia.org/wiki/Extensible_Markup_Language">Wikipedia</a>)
 
 <a href="#cabecera">A la cabecera</a>
 
@@ -149,5 +179,5 @@ La Web se desarrolló entre marzo de 1989 y diciembre de 1990.2 3 por el inglés
 
 # ¡Gracias por su atención!
 
-Author: [Stalin Guamán <STAN>](https://github.com/StanGumn)
+Author: [Stalin Guamán](https://github.com/StanGumn)
 
