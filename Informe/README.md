@@ -23,10 +23,9 @@
   * <a href="#httm">HTTP Methods</a>
   * <a href="#www">WWC</a>
   * <a href="#xml">XML</a>
-4. <a href="#desarrollo">Desarrollo de la Práctica</a>
-  * <a href="#chttp">Códigos HTTP</a>
-  * <a href="#w3cs">W3C School</a>
   * <a href="#doct">Doctype</a>
+4. <a href="#desarrollo">Desarrollo de la Práctica</a>
+  * <a href="#w3cs">W3C School</a>
   * <a href="#html">HTML</a>
   * <a href="#css">Estilos CSS</a>
   * <a href="#ins">Herramienta Inspeccionar</a>
@@ -100,19 +99,25 @@ XML, siglas en inglés de eXtensible Markup Language ("lenguaje de marcas Extens
 <p align="center">
 <img src="https://github.com/StanGumn/Tec_Web_JS/blob/master/Multimedia/xml%20logo.png?raw=true" width="200" height="200" alt="logo XML">
 </p>
+Un Ejemplo de código XML lo podemos observar en la siguiente imágen la cual se realizó en clase.
+<br>
+<p align="center">
+<img src="https://github.com/StanGumn/Tec_Web_JS/blob/master/Multimedia/Informe%201/xml%20codigo.JPG?raw=true" width="242" height="318" alt="Codigo de ejemplo XML">
+</p>
+<a href="#cabecera">A la cabecera</a>
+
+<a name="doct"></a>
+### Doctype
+El estándar XHTML deriva de XML, por lo que comparte con el muchas de sus normas y sintaxis. Uno de los conceptos fundamentales de XML es la utilización del DTD o Document Type Definition ("Definición del Tipo de Documento"). (Fuente: <a href="http://librosweb.es/libro/xhtml/capitulo_10/doctype.html">LibrosWeb</a>)
+
 <a href="#cabecera">A la cabecera</a>
 
 <a name="desarrollo"></a>
 ## 4. Desarrollo del informe
 
-<a name="chttp"></a>
-### Códigos HTTP 
-
-<a href="#cabecera">A la cabecera</a>
-
 <a name="w3cs"></a>
 ### W3C Schools
-
+W3C Schools es un sitio web el cual ofrece al usuario documentos on-line con tutoriales del lenguaje html y su uso adecuado. En la siguiente imágen podemos observar dicho sitio web en donde podremos realizar consultas en caso de requerirlas.
 
 <br>
 <p align="center">
@@ -121,19 +126,66 @@ XML, siglas en inglés de eXtensible Markup Language ("lenguaje de marcas Extens
 
 <a href="#cabecera">A la cabecera</a>
 
-<a name="doct"></a>
-### Doctype
-
-<a href="#cabecera">A la cabecera</a>
-
 <a name="html"></a>
 ### HTML
+
+El código realizado en clase es el siguiente:
+
+* Bloque de HTML
+```
+<!DOCTYPE html>
+<!--ESTILO CCS EMBEBIDO EN EL HTML -->
+<html lang="en" style="background-color: blue;">
+    <head>
+        <title>Clase 3 ejemplo de HTML</title>
+    </head>
+    <body style="background-color: green;">
+        
+        <!-- listas-->
+        <h1>Tokyo Ghoul</h1>
+        
+        <br>
+        <br>
+        <a href="https://es.wikipedia.org/wiki/Tokyo_Ghoul" target="_blank"><img src="http://static.tvtropes.org/pmwiki/pub/images/tokyo_ghoul_5787.jpg" alt="Foto de portada de Tokyo Ghoul"></a>
+        
+        <p>Tokyo Ghoul es una serie de manga escrita e ilustrada por Sui Ishida, serializada en Seinen, revista de "Shueisha Young Jump", con entrega semanal desde septiembre del 2011. Compilado en 14 volúmenes (tankōbon) a partir de junio del 2014. Una adaptación al anime del Studio Pierrot comenzó a emitirse en Tokyo MX, el 5 de julio de 2014. Funimation ha licenciado la serie de anime para el streaming de vídeo y el hogar con distribución en América.</p>
+        
+        <h2>Listas no ordenadas</h2>
+        <!-- listas no ordenadas -->
+        <ul>
+            <li>kaneki</li>
+            <li>touka</li>
+            <li>viejo</li>
+        </ul>
+        
+        <h2>Listas ordenadas</h2>
+        <!-- listas ordenadas -->
+        <ol>
+            <li>kaneki</li>
+            <li>touka</li>
+            <li>viejo</li>
+        </ol>
+        <h3>Cabecera 3</h3>
+        <h4>Cabecera 4</h4>
+        <h5>Cabecera 5</h5>
+
+
+    </body>
+</html>
+
+```
+
+El cual podemos observar en la siguiente imágen el resultado del anterior código.
+<br>
+<p align="center">
+<img src="https://github.com/StanGumn/Tec_Web_JS/blob/master/Multimedia/Informe%201/pagina%20html.JPG?raw=true" width="1304" height="360" alt="Resultado del HTML">
+</p>
 
 <a href="#cabecera">A la cabecera</a>
 
 <a name="css"></a>
 ### Estilos CSS
-
+en este apartado realizamos estilos CSS de manera embebida en el código html como se observa en las siguientes imágenes.
 <br>
 <p align="center">
 <img src="https://github.com/StanGumn/Tec_Web_JS/blob/master/Multimedia/Informe%201/css%20embebido.JPG?raw=true" width="346" height="25" alt="Estilo CSS Embebido">
@@ -147,7 +199,7 @@ XML, siglas en inglés de eXtensible Markup Language ("lenguaje de marcas Extens
 
 <a name="ins"></a>
 ### Herramienta Inspeccionar
-
+Con la herramienta de inspeciona del navegador, podemos observar el comportamiendo de la página web analizada. Se observa el el funcionamiento de los métodos HTTP en tiempo real, entre otras funciones como las que se visualiza en la siguiente imágen donde se llega a modificar el código HTML en ese instante, sin alterar el archivo original.
 <br>
 <p align="center">
 <img src="https://github.com/StanGumn/Tec_Web_JS/blob/master/Multimedia/Informe%201/inspeccionar%201.JPG?raw=true" width="1369" height="660">
@@ -156,7 +208,7 @@ XML, siglas en inglés de eXtensible Markup Language ("lenguaje de marcas Extens
 
 <a name="pst"></a>
 ### Postman 
-
+Postman es un plugin de Google Chrome el cual nos permite interactuar con los métodos http, para lo cual se pone a continuacion un ejemplo en donde se experimenta con el método GET del servicio de Pokemon. Para este experimento se obtiene (get) toda la información del Pokemon con ID número 150, siendo el resultado el Pokemon llamado Mewtwo como se observa en la figura a continuación. 
 <br>
 <p align="center">
 <img src="https://github.com/StanGumn/Tec_Web_JS/blob/master/Multimedia/Informe%201/postman%20con%20get.JPG?raw=true" width="1046" height="634">
@@ -170,11 +222,7 @@ XML, siglas en inglés de eXtensible Markup Language ("lenguaje de marcas Extens
 
 ## 5. Conclusiones y Recomendaciones
 
-- Se recomienda mejorar la presentacion
-- Se recomienda usar el ir a cabecera despues de terminar una seccion
-- Se aprendio el uso de HTML con Markdown
-- Conocimos herramientas de desarrollo web como postman e inspector web
-- Desarrollamos conocimientos de introducción Web
+- 
 
 <br>
 <a href="#cabecera">A la cabecera</a>
