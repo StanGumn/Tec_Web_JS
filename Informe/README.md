@@ -97,7 +97,7 @@ XML, siglas en inglés de eXtensible Markup Language ("lenguaje de marcas Extens
 
 <br>
 <p align="center">
-<img src="https://github.com/StanGumn/Tec_Web_JS/blob/master/Multimedia/xml%20logo.png?raw=true" width="200" height="200" alt="logo XML">
+<img src="https://github.com/StanGumn/Tec_Web_JS/blob/master/Multimedia/xml%20logo.png?raw=true" width="580" height="310" alt="logo XML">
 </p>
 Un Ejemplo de código XML lo podemos observar en la siguiente imágen la cual se realizó en clase.
 <br>
@@ -108,7 +108,8 @@ Un Ejemplo de código XML lo podemos observar en la siguiente imágen la cual se
 
 <a name="doct"></a>
 ### Doctype
-El estándar XHTML deriva de XML, por lo que comparte con el muchas de sus normas y sintaxis. Uno de los conceptos fundamentales de XML es la utilización del DTD o Document Type Definition ("Definición del Tipo de Documento"). (Fuente: <a href="http://librosweb.es/libro/xhtml/capitulo_10/doctype.html">LibrosWeb</a>)
+El estándar XHTML deriva de XML, por lo que comparte con el muchas de sus normas y sintaxis. Uno de los conceptos fundamentales de XML es la utilización del DTD o Document Type Definition ("Definición del Tipo de Documento"). 
+(Fuente: <a href="http://librosweb.es/libro/xhtml/capitulo_10/doctype.html">LibrosWeb</a>)
 
 <a href="#cabecera">A la cabecera</a>
 
