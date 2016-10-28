@@ -97,12 +97,12 @@ XML, siglas en inglés de eXtensible Markup Language ("lenguaje de marcas Extens
 
 <br>
 <p align="center">
-<img src="https://github.com/StanGumn/Tec_Web_JS/blob/master/Multimedia/xml%20logo.png?raw=true" width="580" height="310" alt="logo XML">
+<img src="https://github.com/StanGumn/Tec_Web_JS/blob/master/Multimedia/xml%20logo.png?raw=true" width="200" height="200" alt="logo XML">
 </p>
 Un Ejemplo de código XML lo podemos observar en la siguiente imágen la cual se realizó en clase.
 <br>
 <p align="center">
-<img src="https://github.com/StanGumn/Tec_Web_JS/blob/master/Multimedia/Informe%201/xml%20codigo.JPG?raw=true" width="242" height="350" alt="Codigo de ejemplo XML">
+<img src="https://github.com/StanGumn/Tec_Web_JS/blob/master/Multimedia/Informe%201/xml%20codigo.JPG?raw=true" width="580" height="310" alt="Codigo de ejemplo XML">
 </p>
 <a href="#cabecera">A la cabecera</a>
 
