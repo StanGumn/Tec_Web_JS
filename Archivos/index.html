@@ -1,36 +1,95 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Document</title>
-    <script>
-        var texto="Texto";
-        var textoNumero="2";
-        
-        console.log('Valor cuando es string');
-        console.log(textoNumero);
-        
-        textoNumero=1;
-        console.log('Valor cuando es se cambio por valor numerico');
-        console.log(textoNumero);
-        
-        var float=1.232;
-        var booleanTrue=true;
-        var booleanFalse=false;
-        var varNull=null;
-        var varUndefined=undefined;
-        
-        console.log(texto);
-        
-        console.log(float);
-        console.log(booleanTrue);
-        console.log(booleanFalse);
-        console.log(varNull);
-        console.log(varUndefined);
-   
-    </script>
-</head>
-<body>
-    
-</body>
+    <head>
+        <meta charset="UTF-8">
+        <title>Document</title>
+        <script>
+            
+            // variables
+            
+            var texto="Texto";
+            var textoNumero="2";
+
+            console.log('Valor cuando es string');
+            console.log(textoNumero);
+
+            textoNumero=1;
+            console.log('Valor cuando es se cambio por valor numerico');
+            console.log(textoNumero);
+
+            var float=1.232;
+            textoNumero=float;
+            console.log('Valor cuando es se cambio float');
+            console.log(textoNumero);
+
+            var booleanTrue=true;
+            textoNumero=booleanTrue;
+            console.log('Valor cuando es se cambio true');
+            console.log(textoNumero);
+
+            var booleanFalse=false;
+            textoNumero=booleanFalse;
+            console.log('Valor cuando es se cambio false');
+            console.log(textoNumero);
+
+            var varNull=null;
+            textoNumero=varNull;
+            console.log('Valor cuando es se cambio null');
+            console.log(textoNumero);
+
+            var varUndefined=undefined;
+            textoNumero=varUndefined;
+            console.log('Valor cuando es se cambio undefined');
+            console.log(textoNumero);
+
+            
+            // Arreglos 
+            
+            var arregloString=['a', 'b','c'];
+            console.log(arregloString);
+
+            var arregloNumeros=[1,2,3];
+            console.log(arregloNumeros);
+
+            var arregloFlotantes=[1.33, 5.6,54.46];
+            console.log(arregloFlotantes);
+
+            var arregloBooleans=[true, false,true];
+            console.log(arregloBooleans);
+
+            var arreglosNull=[null, null,null];
+            console.log(arreglosNull);
+
+            var arreglosUndefined=[undefined, undefined,undefined];
+            console.log(arreglosUndefined);
+
+            var arreglosDeTodo=['Stan', 14, 1.66, true, false, undefined, null, 'Apellido'];
+            console.log(arreglosDeTodo);
+
+            // objetos
+            
+            var stan= {
+                'nombre':'Stalin',
+                'apellido':'Guaman',
+                edad:24,
+                mascota:['Simurdiera', 'Perro'],
+                hermanos:[{
+                    'nombre':'Walter',
+                    'apellido':'Paredes'
+                },{
+                    'nombre':'Nathalia',
+                    'apellido':'Paredes'
+                }]
+            }
+            
+            console.log('Accediendo al nombre del objeto');
+            console.log(stan.nombre);
+            function getNombreStan(){
+                
+            }
+        </script>
+    </head>
+    <body>
+
+    </body>
 </html>
