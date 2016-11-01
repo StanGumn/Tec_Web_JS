@@ -1,4 +1,4 @@
-# Repositorio de Tecnologías Web con JavaScript 
+# Repositorio de Tecnologías Web con JavaScript JS
 Este repositorio forma parte del curso de [Tecnologías Web](https://github.com/StanGumn/Tec_Web_JS)
 ## Enfasis de texto
 * Para nosotros utilizar en **negrita** una palabra, la escribimos en el código entre los simbolos " ** "
