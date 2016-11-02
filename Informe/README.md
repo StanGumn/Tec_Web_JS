@@ -166,28 +166,118 @@ El valor, representado a la derecha de los dos puntos (:), establece el valor de
 <a name="htmltags"></a>
 ### Código HTML con Tags
 En la práctica se desarrollo con el siguiente código:
-```
-<style>
-    html{
-        background-color: #687fd4;
-    } 
-    body{
-        background-color: #6df311;
-    }
-    h1{
-        background-color: #a2b42b;
-    }
-</style>
-```
-
-También se ha creado clases y se el código lo podemos observar detalladamente a continuación.
 
 ```
-.nombreClase{
-    //estilos
-}
+<!DOCTYPE html>
+<html lang="es">
+
+    <head>
+        <meta charset="UTF-8">
+        <title>Aprendiendo CSS</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+        <style>
+            .borde {
+                border: black solid 2px;
+            }
+        </style>
+
+    </head>
+
+    <body>
+
+        <h1>Hola</h1>
+        <!--    .container  EMMET-->
+        <div class="container" style="background-color:yellow;">
+            <!--       .row*3>h1     EMMET-->
+
+            <div class="row" style="background-color:green;">
+
+
+                <h1>Fila1</h1>
+                <!--        md en 890px se hace chiquito-->
+                <div class="col-md-4 borde">
+                    <h2>Columna md 4 - 1</h2>
+                </div>
+                <div class="col-md-4 borde">
+                    <h2>Columna md 4 - 2</h2>
+                </div>
+                <div class="col-md-4 borde">
+                    <h2>Columna md 4 - 3</h2>
+                </div>
+
+            </div>
+
+
+            <div class="row" style="background-color:#7979f3;">
+
+                <h1>Fila2</h1>
+
+                <!--          .col-sm-3.borde*4>h3 EMMET-->
+                <!--         sm se hace chiquito en 690px -->
+                <div class="col-sm-3 borde">
+                    <h3>CSM3 - 1</h3>
+                </div>
+                <div class="col-sm-3 borde">
+                    <h3>CSM2 - 2</h3>
+                </div>
+                <div class="col-sm-3 borde">
+                    <h3>CSM2 - 3</h3>
+                </div>
+                <div class="col-sm-3 borde">
+                    <h3>CSM2 - 4</h3>
+                </div>
+
+            </div>
+
+            <div class="row" style="background-color:red;">
+
+                <h1>Fila3</h1>
+
+                <!--          .col-lg-6.borde*2>h3 EMMET -->
+
+                <div class="col-lg-6 borde">
+                    <h3>CLG6 - 1</h3>
+                </div>
+                <div class="col-lg-6 borde">
+                    <h3>CLG6 - 2</h3>
+                </div>
+
+            </div>
+
+            <!--      .row>.col-xs-2.borde+.col-xs-5.borde*2-->
+            <div class="row">
+                <div class="col-xs-2 borde">
+                    <h2>CXS2 - 1</h2>
+                </div>
+                <div class="col-xs-5 borde">
+                    <h2>CXS5 - 2</h2>
+                </div>
+                <div class="col-xs-5 borde">
+                    <H2>CXS5 - 3</H2>
+                </div>
+            </div>
+
+            <h1>Hola estoy dentro del div</h1>
+        </div>
+
+    </body>
+
+</html>
+
 ```
 
+Recaldando tambien que se incluyo la libreria de Bootstrap
+
+El resultado es el siguiente: 
+
+<br><br>
+<p align="center">
+<img src="https://github.com/StanGumn/Tec_Web_JS/blob/02-CSS/Informe/imagenes/resultado_css.JPG?raw=true" width="800" height="300" alt="Logo HTML">
+</p>
+<br><br>
 
 <a href="#cabecera">A la cabecera</a>
 
