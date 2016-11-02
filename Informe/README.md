@@ -70,7 +70,7 @@ h1 es el selector
 El selector funciona como enlace entre el documento y el estilo, especificando los elementos que se van a ver afectados por esa declaración. La declaración es la parte de la regla que establece cuál será el efecto. En el ejemplo anterior, el selector h1 indica que todos los elementos h1 se verán afectados por la declaración donde se establece que la propiedad color va a tener el valor red (rojo) para todos los elementos h1 del documento o documentos que estén vinculados a esa hoja de estilos.
 
 Las tres formas más conocidas de dar estilo a un documento son las siguientes:
-    * Utilizando una hoja de estilo externa que estará vinculada a un documento a través del elemento <link>, el cual debe ir situado en la sección <head>.
+* Utilizando una hoja de estilo externa que estará vinculada a un documento a través del elemento <link>, el cual debe ir situado en la sección <head>.
     
 ```
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN">
@@ -88,7 +88,8 @@ Las tres formas más conocidas de dar estilo a un documento son las siguientes:
 </html>
 ```
 
-    * Utilizando el elemento <style>, en el interior del documento al que se le quiere dar estilo, y que generalmente se situaría en la sección <head>. De esta forma los estilos serán reconocidos antes de que la página se cargue por completo.
+
+* Utilizando el elemento <style>, en el interior del documento al que se le quiere dar estilo, y que generalmente se situaría en la sección <head>. De esta forma los estilos serán reconocidos antes de que la página se cargue por completo.
     
 ```
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN">
@@ -116,7 +117,7 @@ Las tres formas más conocidas de dar estilo a un documento son las siguientes:
 </html>
 ```
 
-    * En el siguiente ejemplo, h1{color: red;}, el selector, <h1>, le dice al navegador la parte del documento que se verá afectada por esa regla. Los selectores pueden aparecer individualmente o agrupados, separándolos con comas:
+* En el siguiente ejemplo, h1{color: red;}, el selector, <h1>, le dice al navegador la parte del documento que se verá afectada por esa regla. Los selectores pueden aparecer individualmente o agrupados, separándolos con comas:
     
 ```
 h1, h2, h3 {
@@ -124,7 +125,7 @@ h1, h2, h3 {
 }
 ```
 
-    * Que es Equivalente a:
+* Que es Equivalente a:
     
 ```
 h1 {color: red;}
@@ -132,7 +133,7 @@ h2 {color: red;}
 h3 {color: red;}
 ```
 
-    * La propiedad, que en este caso sería color, especifica qué aspecto se va a cambiar. En este ejemplo la propiedad cambiada será el color. Las propiedades que se desean modificar en una CSS para un mismo selector pueden agruparse, pero será necesario separar cada una de ellas con un punto y coma.
+* La propiedad, que en este caso sería color, especifica qué aspecto se va a cambiar. En este ejemplo la propiedad cambiada será el color. Las propiedades que se desean modificar en una CSS para un mismo selector pueden agruparse, pero será necesario separar cada una de ellas con un punto y coma.
 
 ```
 p {text-align:center;color:red}
@@ -149,7 +150,7 @@ Normalmente se describe una propiedad por línea, de la siguiente manera:
 }
 ```
 
-    * El valor, representado a la derecha de los dos puntos (:), establece el valor de la propiedad. Es importante recordar que si el valor está formado por más de una palabra, hay que ponerlo entre comillas.
+* El valor, representado a la derecha de los dos puntos (:), establece el valor de la propiedad. Es importante recordar que si el valor está formado por más de una palabra, hay que ponerlo entre comillas.
     
 ```
     p {font-family: "sans serif";}
