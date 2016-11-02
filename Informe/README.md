@@ -71,7 +71,7 @@ El selector funciona como enlace entre el documento y el estilo, especificando l
 
 Las tres formas más conocidas de dar estilo a un documento son las siguientes:
 
-Utilizando una hoja de estilo externa que estará vinculada a un documento a través del elemento <link>, el cual debe ir situado en la sección <head>.
+Utilizando una hoja de estilo externa que estará vinculada a un documento a través del elemento link, el cual debe ir situado en la sección head.
     
 * Bloque HTML 
 ``` 
@@ -90,7 +90,7 @@ Utilizando una hoja de estilo externa que estará vinculada a un documento a tra
 ```
 
 
-Utilizando el elemento <style>, en el interior del documento al que se le quiere dar estilo, y que generalmente se situaría en la sección <head>. De esta forma los estilos serán reconocidos antes de que la página se cargue por completo.
+Utilizando el elemento style, en el interior del documento al que se le quiere dar estilo, y que generalmente se situaría en la sección head. De esta forma los estilos serán reconocidos antes de que la página se cargue por completo.
     
 * Bloque de HTML
 ```
@@ -119,7 +119,7 @@ Utilizando el elemento <style>, en el interior del documento al que se le quiere
 </html>
 ```
 
-En el siguiente ejemplo, h1{color: red;}, el selector, <h1>, le dice al navegador la parte del documento que se verá afectada por esa regla. Los selectores pueden aparecer individualmente o agrupados, separándolos con comas:
+En el siguiente ejemplo, h1{color: red;}, el selector, h1, le dice al navegador la parte del documento que se verá afectada por esa regla. Los selectores pueden aparecer individualmente o agrupados, separándolos con comas:
     
 ```
 h1, h2, h3 {
