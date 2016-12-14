@@ -277,5 +277,4 @@ app.post('/Usuario', function (req, res) {
 
 # ¡Gracias por su atención!
 
-Author: [Wilmer Guevara](https://github.com/wilgue10)# Introducción a la Web
-
+Author: [Stalin Guamán](https://github.com/StanGumn)
